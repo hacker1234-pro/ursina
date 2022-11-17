@@ -1,0 +1,7 @@
+from ursina import*
+
+app = Ursina
+
+entity(model="cube")
+
+app.run()
